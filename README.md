@@ -6,8 +6,8 @@
 ### Main Featured:
     Design With HTML5, CSS3 & JavaScript
     Fully Responsive Template
-    Custom Web Fonts
-    Social Buttons
+    Custom Web Fonts Included
+    Social Share Icons
     Footer Weights
 
 <br />
