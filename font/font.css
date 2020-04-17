@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+@font-face {
+    font-family: "Socialico";
+    src: url("../font/Socialico.ttf") format("truetype");
+    url("../font/Socialico.eot") format("eot");
+    url("../font/Socialico.woff") format("woff");
+    url("../font/Socialico.svg#Socialico") format("svg");
+}
+
+@font-face {
+    font-family: "Satellite";
+    src: url("../font/Satellite.ttf") format("truetype");
+    url("../font/Satellite.eot") format("eot");
+    url("../font/Satellite.woff") format("woff");
+    url("../font/Satellite.svg#Satellite") format("svg");
+}
+
+@font-face {
+    font-family: "Flatform Light";
+    src: url("../font/Flatform-Light.ttf") format("truetype");
+    url("../font/Flatform-Light.eot") format("eot");
+    url("../font/Flatform-Light.woff") format("woff");
+    url("../font/Flatform-Light.svg#Flatform-Light") format("svg");
+}
